@@ -1,1 +1,4 @@
 A GDB init file providing a SoftICE-style user interface.
+
+As featured in "More fun with GDB":
+	http://www.ibm.com/developerworks/aix/library/au-gdb.html
